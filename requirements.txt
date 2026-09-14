@@ -16,3 +16,5 @@ langchain-groq
 pypdf
 langchain-classic
 pdf2image
+youtube_transcript_api
+pathlib
