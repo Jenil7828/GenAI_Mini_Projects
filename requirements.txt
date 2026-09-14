@@ -14,3 +14,4 @@ langchain-huggingface
 groq
 langchain-groq
 pypdf
+langchain-classic

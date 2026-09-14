@@ -217,3 +217,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 /env_genai/
+/.idea/GenAI_Mini_Projects.iml
+/.idea/misc.xml
+/.idea/workspace.xml
+/QA_Using_Groq_and_Gemma/us_census/Rubicon_Daily_Log.pdf
+/QA_Using_Groq_and_Gemma/us_census/Zensar_Daily_Log.pdf
