@@ -5,3 +5,12 @@ pillow
 langchain
 PyPDF2
 chromadb
+faiss-cpu
+langchain_google_genai
+langchain-text-splitters
+langchain-community
+sentence-transformers
+langchain-huggingface
+groq
+langchain-groq
+pypdf
