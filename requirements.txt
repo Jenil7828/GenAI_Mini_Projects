@@ -18,3 +18,8 @@ langchain-classic
 pdf2image
 youtube_transcript_api
 pathlib
+crewai
+crewai_tools
+ollama
+yt-dlp
+youtube-transcript-api
